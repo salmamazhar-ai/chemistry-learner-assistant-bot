@@ -5,7 +5,7 @@ balances equations, and preps students for exams — built and
 prompt-engineered end-to-end on the Zapier Chatbots platform.
 
 **🔗 Live Demo:** [chemistry-learner-assistant-bot-343360.zapier.app/chat](https://chemistry-learner-assistant-bot-343360.zapier.app/chat)
-
+**📄 Full Case Study PDF:** [Download here](Chemistry_Learner_Assistant_Bot_-_Portfolio_Case_Study%20(1).pdf)
 ---
 
 ## 📋 Overview
